@@ -95,3 +95,31 @@ Please submit a summary to me through Discord per the instructions at the top of
 - [Radical Clashes: What Tangible Interaction Is Made Of - Dijk1 et al](https://dl.acm.org/doi/pdf/10.1145/2460625.2460680?casa_token=nkmEsDhG44IAAAAA:sYqyBsnk4_tssXNF-5-SyyIpUbZZiJlu_L_7AuIiUahK_0TCU6vJKLCWjmrO_rNlHZ_yNvUk9-mw)
 - [What is Embodied Programming - Alex McLean](https://slab.org/what-is-embodied-programming/)
 - [The Pleasure Principle: Immersion, Engagement, and Flow - Douglas / Hargadon](https://dl.acm.org/doi/10.1145/336296.336354)
+
+### Week 3: Audible Embodiment
+
+#### Design Sprint (due Sep. 12th)
+Last week we designed entirely with text; this week we will design entirely with audio. You will make a *soundscape* using the web-based software https://inviso.cc (use Chrome for best support). Find audio files from freesound.org or use other files of your choice.
+
+Questions to consider as you design/develop:
+
+1. How can we create an audio-only world? 
+2. Can we create a narrative with the audio?
+3. What can be explored / discovered in this world? 
+4. What sounds should be directional vs. ambient?
+5. How many sounds can we easily distinguish at once?
+6. How does experiencing this differ with your eyes opened / closed?
+7. Can a “stationary” experience be interesting? Or is movement of the avatar important?
+
+Export your .zip from Inviso and upload it to the assignment in Canvas. *Make sure your the assignment is not larger than 20 MB in size.*
+
+### Readings
+Please read all these and be prepared to discuss them, and also provide a short summary (<300 words each) of THREE them of your choice, submitted to Canvas.
+
+* A visual history of spatial sound: [Red Bull Music Academy Daily](http://daily.redbullmusicacademy.com/2018/09/a-visual-history-of-spatial-sound)
+* hrtf vs. binaural : [A Clarification of HRTF/positional audio/3D/binaural audio : PUBATTLEGROUNDS](https://www.reddit.com/r/PUBATTLEGROUNDS/comments/776d15/a_clarification_of_hrtfpositional_audio3dbinaural/)
+• [Inviso](http://www.anilcamci.com/media/Camci_-_Inviso.pdf)
+• quantifying presence: https://smartech.gatech.edu/bitstream/handle/1853/50913/SerafinSerafin2004.pdf
+• [Gamasutra - Q&A: Using fear to build an immersive soundscape in Shadow of the Tomb Raider](https://www.gamasutra.com/view/news/329886/QA_Using_fear_to_build_an_immersive_soundscape_in_Shadow_of_the_Tomb_Raider.php)
+• [The Programmed Music of “Mini Metro” – Interview with Rich Vreeland (Disasterpeace)](http://designingsound.org/2016/02/18/the-programmed-music-of-mini-metro-interview-with-rich-vreeland-disasterpeace/)
+Note: All the links are not being rendered correctly on the above website. For most links you can simply copy and paste, but the link that shows what Mini Metro actually sounds like is broken. You can use this one instead (make sure you listen / watch!!!): [Mini Metro Sound Demo - YouTube](https://www.youtube.com/watch?v=wmQXJ1drViY)
