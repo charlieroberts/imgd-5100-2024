@@ -118,8 +118,8 @@ Please read all these and be prepared to discuss them, and also provide a short 
 
 - A visual history of spatial sound: [Red Bull Music Academy Daily](http://daily.redbullmusicacademy.com/2018/09/a-visual-history-of-spatial-sound)
 - hrtf vs. binaural : [A Clarification of HRTF/positional audio/3D/binaural audio : PUBATTLEGROUNDS](https://www.reddit.com/r/PUBATTLEGROUNDS/comments/776d15/a_clarification_of_hrtfpositional_audio3dbinaural/)
-- [Inviso](http://www.anilcamci.com/media/Camci_-_Inviso.pdf)
+- [Inviso](https://anilcamci.github.io/publications/Camci_2017_UIST_Inviso.pdf)
 - quantifying presence: https://smartech.gatech.edu/bitstream/handle/1853/50913/SerafinSerafin2004.pdf
-- [Gamasutra - Q&A: Using fear to build an immersive soundscape in Shadow of the Tomb Raider](https://www.gamasutra.com/view/news/329886/QA_Using_fear_to_build_an_immersive_soundscape_in_Shadow_of_the_Tomb_Raider.php)
+- [Gamasutra - Q&A: Using fear to build an immersive soundscape in Shadow of the Tomb Raider](https://www.gamedeveloper.com/audio/q-a-using-fear-to-build-an-immersive-soundscape-in-i-shadow-of-the-tomb-raider-i-)
 - [The Programmed Music of “Mini Metro” – Interview with Rich Vreeland (Disasterpeace)](http://designingsound.org/2016/02/18/the-programmed-music-of-mini-metro-interview-with-rich-vreeland-disasterpeace/)
 Note: All the links are not being rendered correctly on the above website. For most links you can simply copy and paste, but the link that shows what Mini Metro actually sounds like is broken. You can use this one instead (make sure you listen / watch!!!): [Mini Metro Sound Demo - YouTube](https://www.youtube.com/watch?v=wmQXJ1drViY)
