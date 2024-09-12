@@ -124,13 +124,15 @@ Please read all these and be prepared to discuss them, and also provide a short 
 - [The Programmed Music of “Mini Metro” – Interview with Rich Vreeland (Disasterpeace)](http://designingsound.org/2016/02/18/the-programmed-music-of-mini-metro-interview-with-rich-vreeland-disasterpeace/)
 Note: All the links are not being rendered correctly on the above website. For most links you can simply copy and paste, but the link that shows what Mini Metro actually sounds like is broken. You can use this one instead (make sure you listen / watch!!!): [Mini Metro Sound Demo - YouTube](https://www.youtube.com/watch?v=wmQXJ1drViY)
 
-#### Readings (due September 16th)
+## Week 4: Mobile Devices
+
+### Readings (due September 16th)
 - Mads Soegaard: [Glossary of Human-Computer Interaction: Affordances](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/affordances)
 - Gurevich et al.: [Style and Constraint in Electronic Musical Instruments](https://www.researchgate.net/profile/Adnan_Marquez-Borbon/publication/228754343_Style_and_constraint_in_electronic_musical_instruments/links/02e7e522ffe1e37eae000000.pdf)
 - Atau Tanaka: [Mapping Out Instruments, Affordances, and Mobiles](http://research.gold.ac.uk/id/eprint/6834/1/P88_Tanaka.pdf)
 - Donald Norman: [Affordance, Convention, and Design](https://dl.acm.org/doi/pdf/10.1145/301153.301168)
 
-#### Design Sprint (due September 19th)
+### Design Sprint (due September 19th)
 For this assignment we will experiment with using our phones as controllers for games, music, or other creative experiences. Regardless of which you choose, you will need to:
 1. Create an interface on your mobile device. One option for doing this is to use an application like TouchOSC (iOS or Android, $5) or mrmr (iOS, free) or oscHook (Android, free).  At minimum, your interface should use the accelerometer in some meaningful way. At best, experiment with a variety of sensors and/or touch controls.
 2. Create  your game, musical instrument, or artistic experiment (or some combination of all three!) Make whatever you create accept messages over OSC so that it can communicate with your mobile device.  This can be in the platform of your choice… Unity, Web, Unreal, etc. although we’ll be covering Unity and Unreal specifically in class. Document whatever you  create in a video and upload it to a freely accessible site.
