@@ -139,3 +139,8 @@ For this assignment we will experiment with using our phones as controllers for 
 3. Write a 250-word (minimum) summary of your experience. How hard was it to incorporate the mobile sensors? Were you able to use the sensors in a way that helped create a different experience from what you might have made with mouse / keyboard? Would you use mobile devices as game controllers for external games / interactive experiencecs again? Do you think the user experience is more embodied than a mouse + keyboard combo? Make sure to include a link to your documentation video at the top of your writing, and be prepared to conduct critique sessions on your design next class.
 
 ## Week 5: Physical Computing
+### Readings (due September 26th)
+- Norman (do a quick refresh/scan before reading Iskander): [Design Thinking](https://cs3041-18b.github.io/docs/reading/DesignThinking_DonNorman.pdf)
+- Iskander: [Design thinking is fundamentally conservative and preserves the status quo](https://hbr.org/2018/09/design-thinking-is-fundamentally-conservative-and-preserves-the-status-quo)
+- Barragán & Reas (ported by Abhik Pai): [Extension 5](https://p5.readthedocs.io/en/latest/tutorials/electronics.html)
+- Bilkstein: [Gears of our Childhood: Constructionist toolkits, robotics, and physical computing, past and future](https://www.researchgate.net/publication/262201733_Gears_of_our_Childhood_Constructionist_toolkits_robotics_and_physical_computing_past_and_future)
