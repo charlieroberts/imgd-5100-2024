@@ -144,3 +144,8 @@ For this assignment we will experiment with using our phones as controllers for 
 - Iskander: [Design thinking is fundamentally conservative and preserves the status quo](https://hbr.org/2018/09/design-thinking-is-fundamentally-conservative-and-preserves-the-status-quo)
 - Barragán & Reas (ported by Abhik Pai): [Extension 5](https://p5.readthedocs.io/en/latest/tutorials/electronics.html)
 - Bilkstein: [Gears of our Childhood: Constructionist toolkits, robotics, and physical computing, past and future](https://www.researchgate.net/publication/262201733_Gears_of_our_Childhood_Constructionist_toolkits_robotics_and_physical_computing_past_and_future)
+
+### Design Sprint (due Oct 3rd)
+Create a game on your circuit playground. The only requirement is that the game must use at least three sensors (e.g. touch, buttons, volume, acceleromater, temperature, light sensor...). You can also consider attaching other objects to the touch sensors via the alligator clips if you want to extend the playable surface area; similarly, you could use the external LEDs. 
+
+Write a 250-word (minimum) summary of your experience, *after* testing the game in class with multiple users. Did you think the game was a success? What would you do differently? Submit this writeup and a short documentation video to Canvas.
