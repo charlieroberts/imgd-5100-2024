@@ -140,7 +140,7 @@ For this assignment we will experiment with using our phones as controllers for 
 2. Create your game, musical instrument, or artistic experiment (or some combination of all three!) Make whatever you create accept messages over OSC so that it can communicate with your mobile device.  This can be in the platform of your choice… Unity, Web, Unreal, etc. although we’ll be covering Unity and Unreal specifically in class. Document whatever you  create in a video and upload it to a freely accessible site.
 3. Write a 250-word (minimum) summary of your experience. How hard was it to incorporate the mobile sensors? Were you able to use the sensors in a way that helped create a different experience from what you might have made with mouse / keyboard? Would you use mobile devices as game controllers for external games / interactive experiencecs again? Do you think the user experience is more embodied than a mouse + keyboard combo? Make sure to include a link to your documentation video at the top of your writing, and be prepared to conduct critique sessions on your design next class.
 
-## Week 5: Physical Computing
+## Week 5-6: Physical Computing
 ### Readings (due September 26th)
 - Norman (do a quick refresh/scan before reading Iskander): [Design Thinking](https://cs3041-18b.github.io/docs/reading/DesignThinking_DonNorman.pdf)
 - Iskander: [Design thinking is fundamentally conservative and preserves the status quo](https://hbr.org/2018/09/design-thinking-is-fundamentally-conservative-and-preserves-the-status-quo)
@@ -154,3 +154,31 @@ Write a 250-word (minimum) summary of your experience, *after* testing the game 
 
 ### Design Sprint (due October 10th)
 Design an interactive experience using your Circuit Playground Express (CPE) to control a process running on a computer; for example, you could integrate the CPE with an app running Processing, Unity, Unreal, or Max/MSP etc. A good starting point would be adapting your OSC design sprint to accept Serial messages instead of OSC messages. Write a 250-word (minimum) summary of your experience. What challenges did you face? Was there anything you couldn't accomplish that you wanted to implement? Did you enjoy working with hardware this way? 
+
+## Week 7-8: Virtual Reality
+
+### Readings
+- [Are Modern Head-Mounted Displays Sexist? A Systematic Review on Gender Differences in HMD-Mediated Virtual Reality (https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01604/full) (due 10/24)
+
+#### Design Sprint (due 11/4)
+For this sprint, you can choose to make *either* an AR or a VR project. AR will require the use of your phone (or potentially a hololens if you have access to one), VR will require the use of a platform like Google Cardboard, or access to more specialized hardware if you have it.
+
+Projects can be realized in any platform you choose, but I encourage using [AFrame](https://github.com/IMGD-5100-2021/IMGD-5100-2021.github.io/blob/main/arvr_desgn_sprint.md), Unity, or a drag-and-drop editor like Reality Composer (iOS) or [Assemblr Studio](https://www.assemblrworld.com/studio)(all platforms).
+
+*VR*: In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling. You may work in teams for this assignment.
+
+A couple of quick pointers before you start:
+- **Choose a minimal design goal**. The key is that you articulate your goal and make design decisions that align with that objective, and keep everything in scope.
+- **Consider what will make your design feel immersive.** This is your primary challenge, and it's worth thinking beyond visual channels. How could audio enhance your design? Should you add other forms of interaction besides keyboard / cardboard button / mouse?
+- **Careful with interaction** Because of time and hardware limitations, consider what input mechanisms you may even have available to you before getting too deep into the development.
+
+*AR*: In this design sprint, you will make arbitrary user-occupied spaces *creepy*. This can be interpreted as you see fit. 
+- What types of virtual objects can you place in a space that create unease? Discomfort? 
+- Can you use sound in some way to emphasize this effect? 
+- What types of interaction might be *disturbing*? 
+- How can users explore the worlds you augment?
+
+### Deliverables
+- A short demo video, hosted online. Documentation of your assignment, including a brief description of what you made, how it was received during critique, and what you would change if you continued to work on it. Include the link to your video in your documentation, which should be a .pdf.
+
+- Your AR/VR experience should be publicly accessible so that others can visit it or download it. **Include this link in your design doc.** If you're using AFrame, consider using a link from [glitch](https://glitch.com/) (which is probably the easiest place to develop your work).
