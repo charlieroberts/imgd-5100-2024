@@ -41,7 +41,7 @@ You are required to do some type of user evaluation of your work. Give this some
 
 Here is a timeline of deliverables for the project:
 
-1. A short paper (less than a page) describing what your project will be, what challenges / difficulties you expect to encounter when building it, and how you will evaluate it. Due 10/28.
+1. A short paper (less than a page) describing what your project will be, what challenges / difficulties you expect to encounter when building it, and how you will evaluate it. Due 10/31.
 
 2. Prototype I. You will casually show/discuss your prototype with 1–2 other members of the class + the instructor on this day. Be prepared to either show pre-recorded video or do live demonstrations of your work. Due 11/7
 
@@ -159,6 +159,9 @@ Design an interactive experience using your Circuit Playground Express (CPE) to 
 
 ### Readings
 - [Are Modern Head-Mounted Displays Sexist? A Systematic Review on Gender Differences in HMD-Mediated Virtual Reality (https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01604/full) (due 10/24)
+
+### Final Project
+- Initial one-page final project proposal due 10/31
 
 #### Design Sprint (due 11/4)
 For this sprint, you can choose to make *either* an AR or a VR project. AR will require the use of your phone (or potentially a hololens if you have access to one), VR will require the use of a platform like Google Cardboard, or access to more specialized hardware if you have it.
