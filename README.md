@@ -43,7 +43,7 @@ Here is a timeline of deliverables for the project:
 
 1. A short paper (less than a page) describing what your project will be, what challenges / difficulties you expect to encounter when building it, and how you will evaluate it. Due 10/31.
 
-2. Prototype I. You will casually show/discuss your prototype with 1–2 other members of the class + the instructor on this day. Be prepared to either show pre-recorded video or do live demonstrations of your work. Due 11/7
+2. Prototype I. You will casually show/discuss your prototype with 1–2 other members of the class + the instructor on this day. Be prepared to either show pre-recorded video or do live demonstrations of your work. Due 11/11
 
 3. Check-in. Send a brief (< one page) summary of your progress to date to the instructor; if you're working in a group only one group member needs to send this. You should now be at a point where you're ready to begin evaluating your work more seriously, and there will be class time allocated for this. Due 11/18
 
